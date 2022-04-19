@@ -1,7 +1,7 @@
 
 Hi, my name is Paula. I am 34 years old.
 I am learning Full Stack with Python.
-I have also practiced in online courses with **Platzi**, **Udemy** and websites like **Hackerrank** and **Solo Learn: Learn To Code**.
+I have also practiced in online courses with **Platzi**, **Udemy** and websites like **Hackerrank** and **Solo Learn: Learn To Code** for the last year.
 I work in a full-time company in another field, but my wish is to become a Full Stack developer
 
 <!---
