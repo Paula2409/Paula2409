@@ -1,6 +1,6 @@
-My name is Paula. I'm 35 years old.
+My name is Paula. I'm 36 years old.
 I´m interested in becoming a Python Developer.
-I have also practiced in online courses with **Platzi**, **Udemy** and websites like **Hackerrank**, **Solo Learn: Learn To Code** and **Codility**.
+I have also practiced in online courses with **Platzi**, **Udemy** and websites like **Hackerrank**, **Solo Learn: Learn To Code**, **Codility** and **LeetCode**.
 I work in a full-time company in another field, but my wish is to find my place in the IT area.
 Besides that, I’m studying English so I can improve it.
 
